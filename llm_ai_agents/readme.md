@@ -42,7 +42,7 @@ poetry add grandalf
 ```
 
 #### Run graph
-
+ 
 https://mermaid.live/ 
 
 
