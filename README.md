@@ -11,19 +11,10 @@ From Fundamentals to Advanced Techniques with Python and FastAPI on VSCode
 
 **`MessagesPlaceholder`** allows us to define a placeholder for future messages, enabling the passing of a list of messages dynamically.
 
-```bash
-from langchain_core.prompts import ChatPromptTemplate
+[Reflection Agents](https://blog.langchain.dev/reflection-agents/)
 
-chat_prompt = ChatPromptTemplate.from_messages(
-    [
-        (
-            "system",
-            "write message"
-        ),
-        MessagesPlaceholder(variable_name="messages")
-    ]
-)
-```
+**Reflection is a prompting strategy** used to improve the quality and success rate of agents and similar AI systems
 
+[Reflection Agents - Youtube](https://www.youtube.com/watch?v=v5ymBTXNqtk&t=299s)
 
-
+[Reflexion - GitHub](https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/reflexion/reflexion.ipynb)
