@@ -7,7 +7,7 @@ From Fundamentals to Advanced Techniques with Python and FastAPI on VSCode
 
 **rm note :** 
 
-**`ChatPromptTemplate** either sends content to the LLM as a human message or receives a response back from the LLM as an AI-generated answer.
+**`ChatPromptTemplate`** either sends content to the LLM as a human message or receives a response back from the LLM as an AI-generated answer.
 
 **`MessagesPlaceholder`** allows us to define a placeholder for future messages, enabling the passing of a list of messages dynamically.
 
