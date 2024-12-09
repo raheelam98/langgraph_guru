@@ -41,6 +41,18 @@ Add the grandalf package to the project using poetry
 poetry add grandalf
 ```
 
+**Chatbot with Tools :** Integrate a web search tool into the bot.
+
+First, install the requirements to use the [Tavily Search Engine](https://python.langchain.com/docs/integrations/tools/tavily_search/), and set your [TAVILY_API_KEY](https://tavily.com/).
+
+```bash
+poetry add tavily-python langchain_community
+```
+
+```bash
+poetry add black isort
+```
+
 #### Run graph
  
 https://mermaid.live/ 
