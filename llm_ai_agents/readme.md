@@ -49,7 +49,7 @@ First, install the requirements to use the [Tavily Search Engine](https://python
 poetry add tavily-python langchain_community
 ```
 
-```bash
+```bash  
 poetry add black isort
 ```
 
