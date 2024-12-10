@@ -11,7 +11,12 @@ From Fundamentals to Advanced Techniques with Python and FastAPI on VSCode
 
 **`MessagesPlaceholder`** allows us to define a placeholder for future messages, enabling the passing of a list of messages dynamically.
 
-[Reflection Agents](https://blog.langchain.dev/reflection-agents/)
+[OpenAI functions](https://python.langchain.com/v0.1/docs/modules/agents/agent_types/openai_functions_agent/)
+
+
+### Lectures
+
+[Reflection Agents](https://blog.langchain.dev/reflection-agents/) 
 
 **Reflection is a prompting strategy** used to improve the quality and success rate of agents and similar AI systems
 
