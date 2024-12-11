@@ -23,3 +23,5 @@ From Fundamentals to Advanced Techniques with Python and FastAPI on VSCode
 [Reflection Agents - Youtube](https://www.youtube.com/watch?v=v5ymBTXNqtk&t=299s)
 
 [Reflexion - GitHub](https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/reflexion/reflexion.ipynb)
+
+[LangChain Tool Calling feature just changed everything](https://www.youtube.com/watch?v=dj8YqiE1Omc)
