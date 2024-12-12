@@ -7,7 +7,7 @@ uvx --refresh --from "langgraph-cli[inmem]" --with-editable . --python 3.11 lang
 
 [Research Rabbit - llama3.2 - Github](https://github.com/langchain-ai/research-rabbit?tab=readme-ov-file)
 
-[Building a fully local research assistant from scratch with Ollama - 11 Dec 2024](https://www.youtube.com/watch?v=XGuTzHoqlj8)
+[Building a fully local research assistant from scratch with Ollama - 11 Dec 2024 - video](https://www.youtube.com/watch?v=XGuTzHoqlj8)
 
 ### Project Setup: Lang Graph with Poetry
 
