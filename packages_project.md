@@ -26,7 +26,7 @@ Initialize a new poetry project
 poetry init
 ```
 
-List the files in the project directory
+List the files in the project directory  
 ```bash
 ls
 ```
@@ -63,7 +63,7 @@ poetry add tavily-python langchain_community
 poetry add black isort
 ```
 
-**Current virtual environment for your Poetry project**
+**Current virtual environment for your Poetry project**  
 
 ```bash
 poetry env info --path
